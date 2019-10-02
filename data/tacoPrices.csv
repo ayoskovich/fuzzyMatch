@@ -1,0 +1,126 @@
+itemName,price,genGroup
+Crunchy Taco,$1.19,tacos
+Crunchy Taco Supreme,$1.69,tacos
+Soft Taco,$1.19,tacos
+Soft Taco Supreme,$1.69,tacos
+Chicken Soft Taco,$1.79,tacos
+Grilled Steak Soft Taco,$2.49,tacos
+Double Decker Taco,$1.89,tacos
+Double Decker Taco Supreme,$2.29,tacos
+Doritos Locos Taco (Nacho Cheese),$1.49,tacos
+Doritos Locos Taco (Nacho Cheese),$1.89,tacos
+Doritos Locos Taco (Cool Ranch),$1.49,tacos
+Doritos Locos Taco (Cool Ranch),$1.89,tacos
+Doritos Locos Taco (Fiery),$1.49,tacos
+Doritos Locos Taco (Fiery),$1.89,tacos
+Crunchy Taco 12 Pc. Box,$11.99,tacos
+Bean Burrito,$1.29,burritos
+Beefy 5-Layer Burrito,$1.69,burritos
+Chicken Burrito,$1.79,burritos
+Cheese Potato Burrito,$2.39,burritos
+Combo Burrito,$2.59,burritos
+Burrito Supreme,$3.19,burritos
+7-Layer Burrito,$2.49,burritos
+Black Bean Burrito,$1.79,burritos
+XXL Grilled Stuft Burrito (Beef),$3.99,burritos
+XXL Grilled Stuft Burrito (Chicken),$4.99,burritos
+XXL Grilled Stuft Burrito (Steak),$5.19,burritos
+Smothered Burrito (Beef),$2.99,burritos
+Smothered Burrito (Shredded Chicken),$3.99,burritos
+Smothered Burrito (Steak),$4.19,burritos
+Chili Cheese Burrito,$1.69,burritos
+Cheesy Nachos,$1.39,nachos
+Nacho Supreme,$2.49,nachos
+Nacho Bellgrande,$3.29,nachos
+Chalupa Supreme (Beef),$2.49,specialties
+Chalupa Supreme (Chicken),$3.19,specialties
+Chalupa Supreme (Steak),$3.39,specialties
+Mexican Pizza,$3.49,specialties
+Crunchwrap Supreme,$2.99,specialties
+Fiesta Taco Salad (Beef),$4.99,specialties
+Fiesta Taco Salad (Chicken),$5.49,specialties
+Fiesta Taco Salad (Steak),$5.99,specialties
+Cheese Quesadilla,$2.49,specialties
+Quesadilla (Chicken),$3.39,specialties
+Quesadilla (Steak),$3.59,specialties
+Cheesy Gordita Crunch,$2.69,specialties
+Doritos Cheesy Gordita Crunch,$2.99,specialties
+Gordita Supreme (Beef),$2.49,specialties
+Gordita Supreme (Chicken),$3.19,specialties
+Gordita Supreme (Steak),$3.39,specialties
+Double Tostada,$1.59,meximelt
+Quesarito (Beef),$2.59,meximelt
+Quesarito (Chicken),$3.19,meximelt
+Quesarito (Steak),$3.49,meximelt
+Caramel Apple Empanada,$1.00,desserts
+Cinnabon Delights,$1.00,desserts
+Cinnabon Delights,$1.69,desserts
+Cinnabon Delights,$4.49,desserts
+Cinnamon Twists,$1.00,desserts
+Beefy Fritos Burrito,$1.00,cravings menu
+Beefy Mini Quesadilla,$1.00,cravings menu
+Spicy Potato Soft Taco,$1.00,cravings menu
+Spicy Tostada,$1.00,cravings menu
+Cheesy Bean & Rice Burrito,$1.00,cravings menu
+Cheese Roll-Up,$1.00,cravings menu
+Chicken Mini Quesadilla,$1.00,cravings menu
+Triple Layer Nachos,$1.00,cravings menu
+Shredded Chicken Burrito,$2.79,meal deals
+Double Decker Taco,$2.79,meal deals
+Beef Gordita Supreme,$2.79,meal deals
+Beefy 5-Layer Burrito,$2.79,meal deals
+"Burrito Supreme, Crunchy Taco, and Large Drink",$5.79,combo meals
+"XXL Grilled Stuft Burrito (Beef), Crunchy Taco, and Large Drink",$5.89,combo meals
+"XXL Grilled Stuft Burrito (Chicken), Crunchy Taco, and Large Drink",$6.49,combo meals
+"XXL Grilled Stuft Burrito (Steak), Crunchy Taco, and Large Drink",$6.69,combo meals
+"Quesadilla (Chicken), Crunchy Taco, and Large Drink",$5.99,combo meals
+"Quesadilla (Steak), Crunchy Taco, and Large Drink",$6.19,combo meals
+3 Tacos (Crunchy) and Large Drink,$4.79,combo meals
+3 Tacos (Soft) and Large Drink,$4.79,combo meals
+3 Tacos Supreme (Crunchy) and Large Drink,$5.89,combo meals
+3 Tacos Supreme (Soft) and Large Drink,$5.89,combo meals
+"Mexican Pizza, 2 Crunchy Taco Supreme, and Large Drink",$7.39,combo meals
+"Crunchwrap Supreme, Crunchy Taco, and Large Drink",$5.99,combo meals
+"Cheesy Gordita Crunch, 2 Crunchy Tacos, and Large Drink",$5.89,combo meals
+"Nacho Bellgrande, Crunchy Taco Supreme, and Large Drink",$6.19,combo meals
+"2 Chalupas Supreme (Beef), Crunchy Taco, and Large Drink",$6.69,combo meals
+"2 Chalupas Supreme (Chicken), Crunchy Taco, and Large Drink",$7.59,combo meals
+"2 Chalupas Supreme (Steak), Crunchy Taco, and Large Drink",$7.99,combo meals
+3 Doritos Locos Tacos (Supreme) and Large Drink,$6.29,combo meals
+3 Doritos Locos Tacos (Regular) and Large Drink,$5.39,combo meals
+"Smothered Burrito (Beef), Crunchy Taco, and Large Drink",$5.19,combo meals
+Soft Drink 16,$1.49,drinks
+Soft Drink 20,$1.59,drinks
+Soft Drink 30,$1.89,drinks
+Soft Drink 40 ,$1.99,drinks
+"Freeze (Mtn Dew® Baja Blast, Starburst Strawberry, or Starburst Cherry) Regular",$2.29,drinks
+"Freeze (Mtn Dew® Baja Blast, Starburst Strawberry, or Starburst Cherry) Large",$2.59,drinks
+Orange Juice,$1.99,drinks
+Premium Hot Coffee,$1.49,drinks
+Premium Iced Coffee,$1.49,drinks
+Loaded Griller (Potato),$1.49,loaded grillers
+Loaded Griller (Chipotle Chicken),$1.49,loaded grillers
+Loaded Griller (Beefy Nacho),$1.49,loaded grillers
+A.M. Grilled Taco (Bacon),$1.00,breakfast menu
+A.M. Grilled Taco (Sausage),$1.00,breakfast menu
+"A.M. Crunchwrap (Bacon, Sausage or Country)",$2.49,breakfast menu
+A.M. Crunchwrap (California),$2.79,breakfast menu
+A.M. Crunchwrap (Steak),$2.99,breakfast menu
+Biscuit Taco (Egg & Cheese or Sausage & Cheese),$1.99,breakfast menu
+"Biscuit Taco (Bacon, Egg & Cheese or Sausage, Egg & Cheese)",$2.49,breakfast menu
+Grande Scrambler (Bacon or Sausage),$2.49,breakfast menu
+Grande Scrambler (Steak),$3.29,breakfast menu
+"Grilled Breakfast Burrito (Country, Bacon or Sausage)",$1.29,breakfast menu
+Cheesy Burrito (Bacon or Sausage),$1.69,breakfast menu
+Cheesy Burrito (Steak),$2.49,breakfast menu
+Cinnabon Delights,$1.00,breakfast menu
+Hash Brown,$1.00,breakfast menu
+"A.M. Crunchwrap (Bacon, Sausage or Country)",$4.49,breakfast menu
+A.M. Crunchwrap (California),$4.79,breakfast menu
+A.M. Crunchwrap (Steak),$4.99,breakfast menu
+Biscuit Taco (Egg & Cheese or Sausage & Cheese),$3.99,breakfast menu
+"Biscuit Taco (Bacon, Egg & Cheese or Sausage, Egg & Cheese)",$4.49,breakfast menu
+Grande Scrambler (Bacon or Sausage),$4.69,breakfast menu
+Grande Scrambler (Steak),$5.49,breakfast menu
+Cheesy Burrito (Bacon or Sausage),$3.69,breakfast menu
+Cheesy Burrito (Steak),$4.79,breakfast menu

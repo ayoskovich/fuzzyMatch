@@ -1,0 +1,414 @@
+itemName,calories,caloriesFat,totalFat,saturatedFat,transFat,cholesterol,sodium,totalCarbs,dietaryFiber,sugars,protein,menuType
+Breakfast Crunchwrap - Bacon,650,370,41,12,0,145,"1,290",51,4,3,21,breakfast
+Breakfast Crunchwrap - Sausage,690,410,45,14,0,150,"1,210",51,4,3,21,breakfast
+Breakfast Crunchwrap - Steak,640,340,38,11,0,150,"1,290",51,4,3,24,breakfast
+Breakfast Quesadilla - Bacon,510,260,28,13,0.5,160,"1,260",37,4,2,26,breakfast
+Breakfast Quesadilla - Sausage,500,260,29,13,0.5,155,"1,100",37,3,2,24,breakfast
+Breakfast Quesadilla - Steak,500,230,26,12,0.5,165,"1,260",38,3,2,29,breakfast
+Breakfast Soft Taco - Bacon,230,120,14,5,0,120,560,15,1,1,12,breakfast
+Breakfast Soft Taco - Egg & Cheese (V),170,80,9,3,0,105,330,15,<1,<1,7,breakfast
+Breakfast Soft Taco - Sausage,230,130,14,5,0,115,400,15,<1,<1,9,breakfast
+Cinnabon® Delights™ (2 Pack),160,80,9,2,0,5,80,17,0,10,2,breakfast
+Cinnabon® Delights™ (4 Pack),310,160,18,4.5,0.5,15,160,35,<1,20,3,breakfast
+Cinnabon® Delights™ (12 Pack - Serves 4),930,480,53,13,2,40,480,104,3,59,9,breakfast
+Grande Scrambler Burrito - Bacon,650,300,33,9,0,225,"1,470",65,5,4,21,breakfast
+Grande Scrambler Burrito - Sausage,640,310,34,9,0,220,"1,310",65,5,4,19,breakfast
+Grande Scrambler Burrito - Steak,640,280,31,8,0,230,"1,480",65,5,4,24,breakfast
+Grilled Breakfast Burrito - Bacon,350,150,17,4.5,0,115,890,37,2,3,13,breakfast
+Grilled Breakfast Burrito - Fiesta Potato,340,130,14,3.5,0,100,780,43,3,3,10,breakfast
+Grilled Breakfast Burrito - Sausage,340,160,17,5,0,110,730,36,2,3,11,breakfast
+Hashbrown,160,100,12,1,0,0,270,13,2,0,1,breakfast
+Iced Regular Coffee,10,0,0,0,0,0,0,0,0,0,2,breakfast
+Mini Skillet Bowl,180,100,11,2,0,100,430,16,2,<1,5,breakfast
+Mtn Dew® Kickstart™ Orange Citrus,70,0,0,0,0,0,75,18,0,18,0,breakfast
+Nestle® Coffee-Mate™ Sweetened Original Creamer (1 portion creamer),25,10,1.5,1,0,0,0,3,0,3,0,breakfast
+Rainforest Coffee,10,0,0,0,0,0,0,0,0,0,2,breakfast
+Rainforest Coffee with Nestle® Coffee-Mate™ Sweetened Original Creamer (1 portion creamer),30,10,1.5,1,0,0,0,3,0,3,2,breakfast
+Sausage Flatbread Quesadilla,330,160,18,6,0,120,520,27,2,3,14,breakfast
+Tropicana® Orange Juice,140,0,0,0,0,0,20,33,<1,28,2,breakfast
+Breakfast Soft Taco - Bacon,230,120,14,5,0,120,560,15,1,1,12,morning dollar value menu
+Breakfast Soft Taco - Egg & Cheese (V),170,80,9,3,0,105,330,15,<1,<1,7,morning dollar value menu
+Breakfast Soft Taco - Sausage,230,130,14,5,0,115,400,15,<1,<1,9,morning dollar value menu
+Cinnabon® Delights™ (2 Pack),160,80,9,2,0,5,80,17,0,10,2,morning dollar value menu
+Grilled Breakfast Burrito - Bacon,350,150,17,4.5,0,115,890,37,2,3,13,morning dollar value menu
+Grilled Breakfast Burrito - Fiesta Potato,340,130,14,3.5,0,100,780,43,3,3,10,morning dollar value menu
+Grilled Breakfast Burrito - Sausage,340,160,17,5,0,110,730,36,2,3,11,morning dollar value menu
+Hashbrown,160,100,12,1,0,0,270,13,2,0,1,morning dollar value menu
+Iced Regular Coffee,10,0,0,0,0,0,0,0,0,0,2,morning dollar value menu
+Mini Skillet Bowl,180,100,11,2,0,100,430,16,2,<1,5,morning dollar value menu
+Mtn Dew® Kickstart™ Orange Citrus,70,0,0,0,0,0,75,18,0,18,0,morning dollar value menu
+Rainforest Coffee,10,0,0,0,0,0,0,0,0,0,2,morning dollar value menu
+Rainforest Coffee with Nestle® Coffee-Mate™ Sweetened Original Creamer (1 portion creamer),30,10,1.5,1,0,0,0,3,0,3,2,morning dollar value menu
+Sausage Flatbread Quesadilla,330,160,18,6,0,120,520,27,2,3,14,morning dollar value menu
+7-Layer Burrito (V),420,140,15,6,0,15,970,58,8,4,13,burritos
+Bean Burrito (V),350,80,9,3.5,0,5,"1,000",54,11,3,13,burritos
+Beefy 5-Layer Burrito,490,160,18,7,0,30,"1,250",63,9,5,18,burritos
+Beefy Fritos® Burrito,440,160,18,4.5,0,20,"1,000",57,5,3,13,burritos
+Beefy Nacho Loaded Griller,370,130,15,4,0,20,820,48,5,3,12,burritos
+Black Bean Burrito (V),370,100,11,4,0,10,950,56,7,2,12,burritos
+Black Bean Quesarito (V),630,260,29,10,0,40,"1,260",73,7,5,19,burritos
+Burrito Supreme® - Beef,390,130,14,6,0,30,"1,110",51,9,4,16,burritos
+Burrito Supreme® - Chicken,370,100,11,4.5,0,35,"1,080",48,7,4,19,burritos
+Burrito Supreme® - Steak,370,110,12,5,0,35,"1,090",49,7,4,18,burritos
+Cheesy Bean & Rice Burrito (V),410,140,16,4,0,<5,880,56,7,3,10,burritos
+Cheesy Potato Griller,340,110,13,3,0,5,780,50,3,3,8,burritos
+Chili Cheese Burrito (regional),370,150,17,8,0.5,40,960,40,4,2,16,burritos
+Quesarito - Beef,650,290,33,12,0.5,60,"1,390",68,5,5,21,burritos
+Quesarito - Chicken,640,280,32,11,0,75,"1,340",66,4,4,22,burritos
+Quesarito - Steak,630,270,30,11,0,65,"1,370",66,4,4,24,burritos
+Shredded Chicken Burrito,420,180,20,5,0,45,890,47,3,2,14,burritos
+Beefy Fritos® Burrito,440,160,18,4.5,0,20,"1,000",57,5,3,13,dollar cravings menu
+Cheesy Bean & Rice Burrito (V),410,140,16,4,0,<5,880,56,7,3,10,dollar cravings menu
+Cheesy Roll Up (V),180,80,9,5,0,20,430,15,2,<1,9,dollar cravings menu
+Cinnabon® Delights™ (2 Pack),160,80,9,2,0,5,80,17,0,10,2,dollar cravings menu
+Cinnamon Twists,170,50,6,0,0,0,210,27,<1,13,1,dollar cravings menu
+Shredded Chicken Mini Quesadilla,200,90,10,3.5,0,40,490,15,1,<1,10,dollar cravings menu
+Spicy Potato Soft Taco,230,100,12,3,0,10,460,27,2,1,5,dollar cravings menu
+Spicy Tostada (V),190,90,10,2.5,0,10,410,22,6,2,6,dollar cravings menu
+Triple Layer Nachos,320,140,15,2,0,0,480,40,7,2,5,dollar cravings menu
+Cherry Sunset Freeze™ (16 oz),190,0,0,0,0,0,55,51,0,49,0,freezies
+Cherry Sunset Freeze™ (20 oz),240,0,0,0,0,0,70,63,0,60,0,freezies
+Mtn Dew® Baja Blast Freeze™ (16 oz),180,0,0,0,0,0,50,51,0,51,0,freezies
+Mtn Dew® Baja Blast Freeze™ (20 oz),230,0,0,0,0,0,65,64,0,64,0,freezies
+Strawberry Skittles Freeze™ (16 oz),160,0,0,0,0,0,40,43,0,43,0,freezies
+Strawberry Skittles Freeze™ (20 oz),210,0,0,0,0,0,50,54,0,54,0,freezies
+Fresco Bean Burrito,330,60,7,2.5,0,0,990,54,11,3,11,fresco menu
+Fresco Burrito Supreme® - Chicken,330,70,8,2.5,0,25,"1,040",47,7,4,17,fresco menu
+Fresco Burrito Supreme® - Steak,330,70,8,3,0,20,"1,050",48,7,4,16,fresco menu
+Fresco Crunchy Taco - Beef,140,70,7,2.5,0,15,300,14,3,<1,6,fresco menu
+Fresco Soft Taco - Beef,160,60,6,2.5,0,15,480,18,3,1,8,fresco menu
+Fresco Soft Taco - Shredded Chicken,150,50,6,2,0,30,430,16,2,1,9,fresco menu
+Fresco Soft Taco - Steak,150,35,4,1.5,0,20,460,17,2,2,10,fresco menu
+Grande Nachos Box - Beef,"1,120",550,61,13,0.5,50,"1,660",117,21,6,26,limited time offer
+Grande Nachos Box - Shredded Chicken,"1,100",530,59,11,0,80,"1,560",113,18,6,28,limited time offer
+Toasted Cheddar Chalupa,450,270,30,9,0.5,40,550,29,4,3,16,limited time offer
+Triple Double Crunchwrap - Original,700,270,30,9,0.5,45,"1,580",86,9,8,22,limited time offer
+Power Menu Bowl - Chicken,480,180,20,6,0,70,"1,170",50,6,2,26,power menu
+Power Menu Bowl - Steak,490,180,20,7,0,65,"1,190",51,6,2,25,power menu
+Power Menu Bowl - Veggie (V),430,160,18,5,0,20,850,57,10,2,12,power menu
+Black Beans & Rice (V),170,30,3.5,0,0,0,320,31,4,0,4,sides
+Black Beans (V),50,10,1,0,0,0,135,8,3,0,2,sides
+Cheesy Fiesta Potatoes,230,110,12,2,0,5,520,28,2,2,3,sides
+Chips and Guacamole,230,130,15,2,0,0,240,23,4,<1,2,sides
+Chips and Nacho Cheese Sauce,220,120,13,1.5,0,<5,250,24,2,2,2,sides
+Chips and Pico de Gallo,180,80,9,1,0,0,100,22,3,<1,2,sides
+Pintos 'n Cheese (V),170,50,6,2.5,0,10,620,20,9,<1,9,sides
+Seasoned Rice (V),120,20,2,0,0,0,190,23,<1,0,2,sides
+Black Bean Crunchwrap Supreme (V),510,160,17,4.5,0,5,"1,080",77,8,6,13,specialties
+Chalupa Supreme® - Beef,350,170,18,5,0,25,560,33,4,3,13,specialties
+Chalupa Supreme® - Chicken,330,140,16,3.5,0,35,520,31,2,3,16,specialties
+Chalupa Supreme® - Steak,330,140,16,4,0,30,530,32,2,3,15,specialties
+Cheesy Gordita Crunch,500,250,28,10,0.5,55,850,41,5,4,20,specialties
+Cheesy Gordita Crunch Supreme®,520,270,29,11,1,60,870,43,5,5,21,specialties
+Cheesy Roll Up (V),180,80,9,5,0,20,430,15,2,<1,9,specialties
+Crunchwrap Supreme®,530,190,21,6,0,25,"1,200",71,6,6,16,specialties
+Express Fiesta Taco Salad (regional),560,230,25,9,0.5,55,"1,060",62,12,4,21,specialties
+Fiesta Taco Salad - Beef,740,340,38,9,1,55,"1,110",75,12,5,25,specialties
+Gordita Supreme® - Beef,280,110,12,4.5,0,30,570,31,4,5,13,specialties
+Gordita Supreme® - Chicken,260,80,9,3,0,35,540,29,2,5,16,specialties
+Gordita Supreme® - Steak,270,90,9,3.5,0,30,550,30,2,5,16,specialties
+Mexican Pizza,530,260,29,8,0.5,40,960,48,9,3,19,specialties
+Meximelt®,250,120,13,7,0.5,40,720,19,4,1,14,specialties
+Nachos BellGrande®,740,340,38,7,0,25,"1,050",82,15,5,16,specialties
+Nachos BellGrande® - Chicken,720,320,35,6,0,35,"1,020",80,14,5,20,specialties
+Nachos BellGrande® - Steak,720,320,36,6,0,30,"1,030",81,14,5,19,specialties
+Nachos Supreme®,430,210,23,5,0,25,720,45,9,3,11,specialties
+Quesadilla - Cheese (V),450,230,25,12,0.5,50,990,37,4,2,19,specialties
+Quesadilla - Chicken,500,240,27,12,0.5,70,"1,220",38,4,2,27,specialties
+Quesadilla - Steak,500,240,27,12,0.5,70,"1,230",38,4,2,27,specialties
+Shredded Chicken Mini Quesadilla,200,90,10,3.5,0,40,490,15,1,<1,10,specialties
+Spicy Tostada (V),190,90,10,2.5,0,10,410,22,6,2,6,specialties
+Triple Layer Nachos,320,140,15,2,0,0,480,40,7,2,5,specialties
+Cinnabon® Delights™ (2 Pack),160,80,9,2,0,5,80,17,0,10,2,drinks and sweets
+Cinnabon® Delights™ (4 Pack),310,160,18,4.5,0.5,15,160,35,<1,20,3,drinks and sweets
+Cinnabon® Delights™ (12 Pack - Serves 4),930,480,53,13,2,40,480,104,3,59,9,drinks and sweets
+Cinnamon Twists,170,50,6,0,0,0,210,27,<1,13,1,drinks and sweets
+Lowfat Milk - CA (Regional),100,20,2,1.5,0,10,130,13,0,12,9,drinks and sweets
+Lowfat Milk - Federal (Regional),80,20,2,1.5,0,10,100,10,0,9,7,drinks and sweets
+Water,0,0,0,0,0,0,0,0,0,0,0,drinks and sweets
+Crunchy Taco,170,80,9,3.5,0,25,310,13,3,<1,8,tacos
+Crunchy Taco Supreme®,190,100,11,4.5,0,30,340,15,3,2,8,tacos
+Grilled Steak Soft Taco,200,90,10,3.5,0,30,510,17,1,2,12,tacos
+Nacho Cheese Doritos® Locos Taco,170,80,9,3.5,0,25,360,13,3,<1,8,tacos
+Nacho Cheese Doritos® Locos Taco Supreme®,190,100,11,4.5,0,30,380,15,3,2,8,tacos
+Soft Taco - Beef,180,80,9,4,0,25,500,18,3,1,9,tacos
+Soft Taco - Chicken,170,70,8,3,0,40,450,16,1,1,10,tacos
+Soft Taco Supreme® - Beef,210,90,10,4.5,0,30,520,20,3,2,10,tacos
+Spicy Potato Soft Taco,230,100,12,3,0,10,460,27,2,1,5,tacos
+7-Layer Burrito,420,140,15,6,0,15,970,58,8,4,13,vegetarian menu
+Bean Burrito,350,80,9,3.5,0,5,"1,000",54,11,3,13,vegetarian menu
+Black Bean Burrito,370,100,11,4,0,10,950,56,7,2,12,vegetarian menu
+Black Bean Crunchwrap Supreme,510,160,17,4.5,0,5,"1,080",77,8,6,13,vegetarian menu
+Black Bean Quesarito,630,260,29,10,0,40,"1,260",73,7,5,19,vegetarian menu
+Black Beans,50,10,1,0,0,0,135,8,3,0,2,vegetarian menu
+Black Beans & Rice,170,30,3.5,0,0,0,320,31,4,0,4,vegetarian menu
+Breakfast Soft Taco - Egg & Cheese,170,80,9,3,0,105,330,15,<1,<1,7,vegetarian menu
+Cheesy Bean & Rice Burrito,410,140,16,4,0,<5,880,56,7,3,10,vegetarian menu
+Cheesy Roll Up,180,80,9,5,0,20,430,15,2,<1,9,vegetarian menu
+Pintos 'n Cheese,170,50,6,2.5,0,10,620,20,9,<1,9,vegetarian menu
+Power Menu Bowl - Veggie,430,160,18,5,0,20,850,57,10,2,12,vegetarian menu
+Quesadilla - Cheese,450,230,25,12,0.5,50,990,37,4,2,19,vegetarian menu
+Seasoned Rice,120,20,2,0,0,0,190,23,<1,0,2,vegetarian menu
+Spicy Tostada,190,90,10,2.5,0,10,410,22,6,2,6,vegetarian menu
+Beach Berry Freeze™ (16 oz),240,0,0,0,0,0,10,59,0,59,0,cantina menu
+Beach Berry Freeze™(20 oz),300,0,0,0,0,0,15,75,0,75,0,cantina menu
+Berry Sangria Freeze™ (16 oz),240,0,0,0,0,0,10,59,0,59,0,cantina menu
+Berry Sangria Freeze™ (20 oz),300,0,0,0,0,0,15,75,0,75,0,cantina menu
+Blue Raspberry Freeze™ (16 oz),240,0,0,0,0,0,10,59,0,59,0,cantina menu
+Blue Raspberry Freeze™ (20 oz),300,0,0,0,0,0,15,75,0,75,0,cantina menu
+Caleb's Kola (20 oz),230,0,0,0,0,0,115,60,0,58,0,cantina menu
+Chicken Enchilada Nachos,"1,080",550,61,14,0,100,"1,850",105,11,5,28,cantina menu
+Fiesta Taco Salad Nachos,"1,370",720,80,18,1,80,"1,320",132,19,6,30,cantina menu
+IZZE Sparkling Clementine (20 oz),180,0,0,0,0,0,190,48,0,45,0,cantina menu
+Lemonade Freeze™ (16 oz),240,0,0,0,0,0,10,59,0,59,0,cantina menu
+Lemonade Freeze™ (20 oz),300,0,0,0,0,0,15,75,0,75,0,cantina menu
+Margarita Freeze™ (16 oz),240,0,0,0,0,0,10,59,0,59,0,cantina menu
+Margarita Freeze™ (20 oz),300,0,0,0,0,0,15,75,0,75,0,cantina menu
+Mtn Dew® Baja Blast Freeze™ (16 oz),180,0,0,0,0,0,50,51,0,51,0,cantina menu
+Mtn Dew® Baja Blast Freeze™ (20 oz),230,0,0,0,0,0,65,64,0,64,0,cantina menu
+Mtn Dew® Freeze™ (16 oz),120,0,0,0,0,0,40,33,0,33,0,cantina menu
+Mtn Dew® Freeze™ (20 oz),160,0,0,0,0,0,50,42,0,42,0,cantina menu
+Orange Cream Pop Freeze™ (16 oz),130,0,0,0,0,0,30,34,0,34,0,cantina menu
+Orange Cream Pop Freeze™ (20 oz),160,0,0,0,0,0,40,44,0,43,0,cantina menu
+Pepsi® Freeze™ (16 oz),110,0,0,0,0,0,25,31,0,31,0,cantina menu
+Pepsi® Freeze™ (20 oz),140,0,0,0,0,0,30,39,0,39,0,cantina menu
+Pina Colada Freeze™ (16 oz),240,0,0,0,0,0,10,59,0,59,0,cantina menu
+Pina Colada Freeze™ (20 oz),300,0,0,0,0,0,15,75,0,75,0,cantina menu
+Prosecco Sparkling Wine (350 mL),280,0,0,0,0,0,15,9,0,3,0,cantina menu
+Red Cherry Freeze™ (16 oz),240,0,0,0,0,0,10,59,0,59,0,cantina menu
+Red Cherry Freeze™ (20 oz),300,0,0,0,0,0,15,75,0,75,0,cantina menu
+Red Sangria (16 oz),330,0,0,0,0,0,0,27,0,27,0,cantina menu
+Red Wine (6.3 fl oz),160,0,0,0,0,0,5,5,0,1,0,cantina menu
+Rum (80 proof),70,0,0,0,0,0,0,0,0,0,0,cantina menu
+Steak Nachos,"1,170",580,64,14,0,80,"1,300",116,10,5,32,cantina menu
+Strawberry Skittles Freeze™ (16 oz),160,0,0,0,0,0,40,43,0,43,0,cantina menu
+Strawberry Skittles Freeze™ (20 oz),210,0,0,0,0,0,50,54,0,54,0,cantina menu
+Stubborn Soda - Black Cherry Tarragon (20 oz),240,0,0,0,0,0,75,61,0,61,0,cantina menu
+Stubborn Soda - Classic Root Beer (20 oz),280,0,0,0,0,0,140,73,0,70,0,cantina menu
+Tequila (80 proof),70,0,0,0,0,0,0,0,0,0,0,cantina menu
+Vodka (80 proof),70,0,0,0,0,0,0,0,0,0,0,cantina menu
+Barrio Blonde (12 oz),160,0,0,0,0,0,0,10,0,0,0,"cantina beer, wine, and spirits"
+Barrio Blonde (16 oz),210,0,0,0,0,0,0,13,0,0,0,"cantina beer, wine, and spirits"
+Beach Bell Beer (12 oz),180,0,0,0,0,0,0,14,0,0,0,"cantina beer, wine, and spirits"
+Beach Bell Beer (16 oz),240,0,0,0,0,0,0,19,0,0,0,"cantina beer, wine, and spirits"
+Beer - General (12 oz),150,0,0,0,0,0,15,13,0,0,2,"cantina beer, wine, and spirits"
+Beer - General (16 oz),200,0,0,0,0,0,20,17,0,0,2,"cantina beer, wine, and spirits"
+Bell Tower Cerveza (12 oz),110,0,0,0,0,0,0,11,0,0,2,"cantina beer, wine, and spirits"
+Bell Tower Cerveza (16 oz),140,0,0,0,0,0,0,15,0,0,2,"cantina beer, wine, and spirits"
+Blue Moon Belgian White (12 oz),170,0,0,0,0,0,15,14,0,0,2,"cantina beer, wine, and spirits"
+Blue Moon Belgian White (16 oz),220,0,0,0,0,0,20,19,0,0,3,"cantina beer, wine, and spirits"
+Blue Point Big City Bells Pilsner (12 oz),160,0,0,0,0,0,0,10,0,0,2,"cantina beer, wine, and spirits"
+Blue Point Big City Bells Pilsner (16 oz),210,0,0,0,0,0,0,14,0,0,2,"cantina beer, wine, and spirits"
+Blue Point Hoptical Illusion IPA (12 oz),220,0,0,0,0,0,20,18,0,0,3,"cantina beer, wine, and spirits"
+Blue Point Hoptical Illusion IPA (16 oz),290,0,0,0,0,0,25,24,0,0,4,"cantina beer, wine, and spirits"
+Blue Point Toasted Lager (12 oz),150,0,0,0,0,0,15,15,0,0,2,"cantina beer, wine, and spirits"
+Blue Point Toasted Lager (16 oz),200,0,0,0,0,0,20,20,0,0,3,"cantina beer, wine, and spirits"
+Brooklyn Lager (12 oz),170,0,0,0,0,0,0,13,0,13,0,"cantina beer, wine, and spirits"
+Brooklyn Lager (16 oz),230,0,0,0,0,0,0,18,0,18,0,"cantina beer, wine, and spirits"
+Bud Light (12 oz),110,0,0,0,0,0,0,7,0,0,<1,"cantina beer, wine, and spirits"
+Bud Light (16 oz),150,0,0,0,0,0,0,9,0,0,1,"cantina beer, wine, and spirits"
+Budweiser (12 oz),150,0,0,0,0,0,0,11,0,0,1,"cantina beer, wine, and spirits"
+Budweiser (16 oz),190,0,0,0,0,0,0,14,0,0,2,"cantina beer, wine, and spirits"
+Coors (Coors Banquet) (12 oz),150,0,0,0,0,0,15,12,0,0,1,"cantina beer, wine, and spirits"
+Coors (Coors Banquet) (16 oz),200,0,0,0,0,0,20,16,0,0,1,"cantina beer, wine, and spirits"
+Coors Light (12 oz),100,0,0,0,0,0,10,5,0,1,0,"cantina beer, wine, and spirits"
+Coors Light (16 oz),140,0,0,0,0,0,15,7,0,1,0,"cantina beer, wine, and spirits"
+Copperhead Red (12 oz),180,0,0,0,0,0,0,19,0,0,2,"cantina beer, wine, and spirits"
+Copperhead Red (16 oz),240,0,0,0,0,0,0,25,0,0,3,"cantina beer, wine, and spirits"
+Corona Extra (12 oz),150,0,0,0,0,0,20,14,0,0,1,"cantina beer, wine, and spirits"
+Corona Extra (16 oz),200,0,0,0,0,0,25,19,0,0,2,"cantina beer, wine, and spirits"
+Corona Light (12 oz),100,0,0,0,0,0,0,5,0,0,<1,"cantina beer, wine, and spirits"
+Corona Light (16 oz),130,0,0,0,0,0,0,7,0,0,1,"cantina beer, wine, and spirits"
+Corona Premier (12 oz),90,0,0,0,0,0,0,3,0,2,0,"cantina beer, wine, and spirits"
+Corona Premier (16 oz),120,0,0,0,0,0,0,3,0,2,<1,"cantina beer, wine, and spirits"
+Dos Equis Lager Especial (12 oz),130,0,0,0,0,0,0,11,0,0,0,"cantina beer, wine, and spirits"
+Dos Equis Lager Especial (16 oz),170,0,0,0,0,0,0,15,0,0,0,"cantina beer, wine, and spirits"
+Dos Equis Mexican Pale Ale (12 oz),180,0,0,0,0,0,0,15,0,0,2,"cantina beer, wine, and spirits"
+Dos Equis Mexican Pale Ale (16 oz),230,0,0,0,0,0,0,20,0,0,3,"cantina beer, wine, and spirits"
+Fair Winds® Howling Gail (12 oz),220,0,0,0,0,0,0,0,0,0,0,"cantina beer, wine, and spirits"
+Fair Winds® Howling Gail (16 oz),300,0,0,0,0,0,0,0,0,0,0,"cantina beer, wine, and spirits"
+Fat Tire Amber Ale (12 oz),160,0,0,0,0,0,0,0,0,0,0,"cantina beer, wine, and spirits"
+Fat Tire Amber Ale (16 oz),210,0,0,0,0,0,0,0,0,0,0,"cantina beer, wine, and spirits"
+Firestone 805 (12 oz),150,0,0,0,0,0,5,14,0,7,2,"cantina beer, wine, and spirits"
+Firestone 805 (16 oz),200,0,0,0,0,0,5,18,0,9,2,"cantina beer, wine, and spirits"
+Four Peaks Kilt Lifter (12 oz),180,0,0,0,0,0,10,14,0,0,2,"cantina beer, wine, and spirits"
+Four Peaks Kilt Lifter (16 oz),240,0,0,0,0,0,15,19,0,0,3,"cantina beer, wine, and spirits"
+Heineken (12 oz),140,0,0,0,0,0,0,11,0,0,2,"cantina beer, wine, and spirits"
+Heineken (16 oz),190,0,0,0,0,0,0,15,0,0,3,"cantina beer, wine, and spirits"
+Heineken Light (12 oz),100,0,0,0,0,0,0,7,0,0,1,"cantina beer, wine, and spirits"
+Heineken Light (16 oz),130,0,0,0,0,0,0,9,0,0,1,"cantina beer, wine, and spirits"
+Kona Big Wave Golden Ale (12 oz),130,0,0,0,0,0,10,10,0,0,1,"cantina beer, wine, and spirits"
+Kona Big Wave Golden Ale (16 oz),180,0,0,0,0,0,10,13,0,0,2,"cantina beer, wine, and spirits"
+Lagunitas IPA (12 oz),190,0,0,0,0,0,15,14,0,2,3,"cantina beer, wine, and spirits"
+Lagunitas IPA (16 oz),250,0,0,0,0,0,20,19,0,3,4,"cantina beer, wine, and spirits"
+Landshark Lager (12 oz),150,0,0,0,0,0,0,13,0,0,1,"cantina beer, wine, and spirits"
+Landshark Lager (16 oz),200,0,0,0,0,0,0,18,0,0,2,"cantina beer, wine, and spirits"
+Michelob Original Lager (12 oz),160,0,0,0,0,0,0,14,0,0,2,"cantina beer, wine, and spirits"
+Michelob Original Lager (16 oz),210,0,0,0,0,0,0,19,0,0,3,"cantina beer, wine, and spirits"
+Michelob Ultra (12 oz),100,0,0,0,0,0,0,3,0,0,<1,"cantina beer, wine, and spirits"
+Michelob Ultra (16 oz),130,0,0,0,0,0,0,3,0,0,<1,"cantina beer, wine, and spirits"
+Miller Genuine Draft (12 oz),140,0,0,0,0,0,10,12,0,0,0,"cantina beer, wine, and spirits"
+Miller Genuine Draft (16 oz),190,0,0,0,0,0,15,16,0,0,0,"cantina beer, wine, and spirits"
+Miller High Life (12 oz),140,0,0,0,0,0,10,12,0,0,0,"cantina beer, wine, and spirits"
+Miller High Life (16 oz),190,0,0,0,0,0,15,16,0,0,0,"cantina beer, wine, and spirits"
+Miller Lite (12 oz),100,0,0,0,0,0,5,3,0,0,0,"cantina beer, wine, and spirits"
+Miller Lite (16 oz),130,0,0,0,0,0,5,4,0,0,0,"cantina beer, wine, and spirits"
+Modelo Especial (12 oz),150,0,0,0,0,0,20,14,0,0,1,"cantina beer, wine, and spirits"
+Modelo Especial (16 oz),200,0,0,0,0,0,25,19,0,0,1,"cantina beer, wine, and spirits"
+Modelo Negra (12 oz),180,0,0,0,0,0,15,16,0,0,2,"cantina beer, wine, and spirits"
+Modelo Negra (16 oz),240,0,0,0,0,0,20,21,0,0,2,"cantina beer, wine, and spirits"
+Motorworks Intellectual Property IPA (12 oz),220,0,0,0,0,0,0,18,0,11,4,"cantina beer, wine, and spirits"
+Motorworks Intellectual Property IPA (16 oz),290,0,0,0,0,0,0,24,0,15,5,"cantina beer, wine, and spirits"
+Motorworks Pulp Fiction IPA (12 oz),220,0,0,0,0,0,0,18,0,11,4,"cantina beer, wine, and spirits"
+Motorworks Pulp Fiction IPA (16 oz),300,0,0,0,0,0,0,24,0,15,5,"cantina beer, wine, and spirits"
+Newcastle Brown Ale (12 oz),130,0,0,0,0,0,0,10,0,0,1,"cantina beer, wine, and spirits"
+Newcastle Brown Ale (16 oz),170,0,0,0,0,0,0,13,0,0,1,"cantina beer, wine, and spirits"
+Old Elephant IPA (12 oz),180,0,0,0,0,0,10,17,0,0,3,"cantina beer, wine, and spirits"
+Old Elephant IPA (16 oz),230,0,0,0,0,0,15,22,0,0,4,"cantina beer, wine, and spirits"
+Pabst Blue Ribbon Original (12 oz),140,0,0,0,0,0,10,12,0,4,1,"cantina beer, wine, and spirits"
+Pabst Blue Ribbon Original (16 oz),190,0,0,0,0,0,15,16,0,5,2,"cantina beer, wine, and spirits"
+Pacifico (12 oz),140,0,0,0,0,0,0,14,0,0,1,"cantina beer, wine, and spirits"
+Pacifico (16 oz),190,0,0,0,0,0,0,19,0,0,1,"cantina beer, wine, and spirits"
+Patriot Ale (12 oz),170,0,0,0,0,0,0,14,0,0,<1,"cantina beer, wine, and spirits"
+Patriot Ale (16 oz),230,0,0,0,0,0,0,19,0,0,<1,"cantina beer, wine, and spirits"
+Revolution Anti Hero (12 oz),220,0,0,0,0,0,10,20,1,1,3,"cantina beer, wine, and spirits"
+Revolution Anti Hero (16 oz),290,0,0,0,0,0,15,27,1,1,4,"cantina beer, wine, and spirits"
+Road 2 Ruin Double IPA (12 oz),220,0,0,0,0,0,10,14,1,0,3,"cantina beer, wine, and spirits"
+Road 2 Ruin Double IPA (16 oz),290,0,0,0,0,0,15,19,1,0,4,"cantina beer, wine, and spirits"
+Samuel Adams® Winter Lager (12 oz),190,0,0,0,0,0,0,0,0,0,0,"cantina beer, wine, and spirits"
+Samuel Adams® Winter Lager (16 oz),260,0,0,0,0,0,0,0,0,0,0,"cantina beer, wine, and spirits"
+Sea Hag IPA (12 oz),190,0,0,0,0,0,10,15,1,0,3,"cantina beer, wine, and spirits"
+Sea Hag IPA (16 oz),250,0,0,0,0,0,15,20,1,0,4,"cantina beer, wine, and spirits"
+Shock Top Belgian White (12 oz),170,0,0,0,0,0,0,15,0,0,2,"cantina beer, wine, and spirits"
+Shock Top Belgian White (16 oz),220,0,0,0,0,0,0,19,0,0,3,"cantina beer, wine, and spirits"
+Sol Cervesa (12 oz),140,0,0,0,0,0,0,12,0,0,0,"cantina beer, wine, and spirits"
+Sol Cervesa (16 oz),180,0,0,0,0,0,0,15,0,0,0,"cantina beer, wine, and spirits"
+Stella Artois (12 oz),140,0,0,0,0,0,0,11,0,0,0,"cantina beer, wine, and spirits"
+Stella Artois (16 oz),190,0,0,0,0,0,0,15,0,0,0,"cantina beer, wine, and spirits"
+Sweetwater 420 Extra Pale Ale (12 oz),170,0,0,0,0,0,0,13,0,0,2,"cantina beer, wine, and spirits"
+Sweetwater 420 Extra Pale Ale (16 oz),220,0,0,0,0,0,0,17,0,0,3,"cantina beer, wine, and spirits"
+Tecate Light (12 oz),110,0,0,0,0,0,0,7,0,0,1,"cantina beer, wine, and spirits"
+Tecate Light (16 oz),140,0,0,0,0,0,0,9,0,0,1,"cantina beer, wine, and spirits"
+Tecate Original (12 oz),140,0,0,0,0,0,0,14,0,0,1,"cantina beer, wine, and spirits"
+Tecate Original (16 oz),190,0,0,0,0,0,0,19,0,0,1,"cantina beer, wine, and spirits"
+Victoria (12 oz),140,0,0,0,0,0,0,13,0,0,0,"cantina beer, wine, and spirits"
+Victoria (16 oz),180,0,0,0,0,0,0,18,0,0,0,"cantina beer, wine, and spirits"
+White Claw Hard Seltzer (12 oz),100,0,0,0,0,0,0,2,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Black and Tan (12 oz),150,0,0,0,0,0,15,15,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Black and Tan (16 oz),200,0,0,0,0,0,20,20,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Golden Pilsner (12 oz),140,0,0,0,0,0,0,9,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Golden Pilsner (16 oz),180,0,0,0,0,0,0,12,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Lager (12 oz),140,0,0,0,0,0,15,12,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Lager (16 oz),190,0,0,0,0,0,20,16,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Light Lager (12 oz),100,0,0,0,0,0,10,9,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Light Lager (16 oz),130,0,0,0,0,0,15,12,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Porter (12 oz),160,0,0,0,0,0,15,15,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Porter (16 oz),220,0,0,0,0,0,25,20,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Premium (12 oz),140,0,0,0,0,0,20,12,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Premium (16 oz),190,0,0,0,0,0,25,16,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Premium Light (12 oz),100,0,0,0,0,0,10,7,0,0,0,"cantina beer, wine, and spirits"
+Yuengling - Premium Light (16 oz),130,0,0,0,0,0,15,9,0,0,0,"cantina beer, wine, and spirits"
+Blue Raspberry Freeze™ (16 oz) - LV,190,0,0,0,0,0,10,49,0,49,0,las vegas cantina
+Blue Raspberry Freeze™ (20 oz) - LV,300,0,0,0,0,0,15,75,0,75,0,las vegas cantina
+Blue Raspberry Freeze™ (32 oz) - LV,360,0,0,0,0,0,20,92,0,92,0,las vegas cantina
+Caleb's Kola (20 oz) - LV,230,0,0,0,0,0,115,60,0,58,0,las vegas cantina
+Cherry Freeze™ (16 oz) - LV,190,0,0,0,0,0,10,49,0,49,0,las vegas cantina
+Cherry Freeze™ (20 oz) - LV,300,0,0,0,0,0,15,75,0,75,0,las vegas cantina
+Cherry Freeze™ (32 oz) - LV,360,0,0,0,0,0,20,92,0,92,0,las vegas cantina
+IZZE Sparkling Clementine (20 oz) - LV,180,0,0,0,0,0,190,48,0,45,0,las vegas cantina
+Lemonade Freeze™ (16 oz) - LV,190,0,0,0,0,0,10,49,0,49,0,las vegas cantina
+Lemonade Freeze™ (20 oz) - LV,300,0,0,0,0,0,15,75,0,75,0,las vegas cantina
+Lemonade Freeze™ (32 oz) - LV,360,0,0,0,0,0,20,92,0,92,0,las vegas cantina
+Margarita Freeze™ (16 oz) - LV,190,0,0,0,0,0,10,49,0,49,0,las vegas cantina
+Margarita Freeze™ (20 oz) - LV,300,0,0,0,0,0,15,75,0,75,0,las vegas cantina
+Margarita Freeze™ (32 oz) - LV,360,0,0,0,0,0,20,92,0,92,0,las vegas cantina
+Mtn Dew® Baja Blast Freeze™ (16 oz) - LV,150,0,0,0,0,0,40,42,0,42,0,las vegas cantina
+Mtn Dew® Baja Blast Freeze™ (20 oz) - LV,230,0,0,0,0,0,65,64,0,64,0,las vegas cantina
+Mtn Dew® Baja Blast Freeze™ (30 oz) - LV,280,0,0,0,0,0,80,78,0,78,0,las vegas cantina
+Orange Cream Pop Freeze™ - LV (16 oz),110,0,0,0,0,0,25,28,0,28,0,las vegas cantina
+Orange Cream Pop Freeze™ - LV (20 oz),160,0,0,0,0,0,40,44,0,43,0,las vegas cantina
+Orange Cream Pop Freeze™ - LV (32 oz),200,0,0,0,0,0,45,53,0,53,0,las vegas cantina
+Pepsi® Freeze™ (16 oz) - LV,90,0,0,0,0,0,20,26,0,26,0,las vegas cantina
+Pepsi® Freeze™ (20 oz) - LV,140,0,0,0,0,0,30,39,0,39,0,las vegas cantina
+Pepsi® Freeze™ (32 oz) - LV,180,0,0,0,0,0,35,48,0,48,0,las vegas cantina
+Pina Colada Freeze™ (16 oz) - LV,190,0,0,0,0,0,10,49,0,49,0,las vegas cantina
+Pina Colada Freeze™ (20 oz) - LV,300,0,0,0,0,0,15,75,0,75,0,las vegas cantina
+Pina Colada Freeze™ (32 oz) - LV,360,0,0,0,0,0,20,92,0,92,0,las vegas cantina
+Red Sangria - LV,300,0,0,0,0,0,15,9,0,2,0,las vegas cantina
+Rose Wine (10 fl oz) - LV,240,0,0,0,0,0,15,11,0,11,1,las vegas cantina
+Rum (80 proof) - Double - LV,250,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Rum (80 proof) - Single - LV,120,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Strawberry Flavor Shot (16 oz) - LV,0,0,0,0,0,0,0,<1,0,0,0,las vegas cantina
+Strawberry Flavor Shot (32 oz) - LV,0,0,0,0,0,0,5,1,0,0,0,las vegas cantina
+Strawberry Skittles Freeze™ - LV (16 oz),130,0,0,0,0,0,35,35,0,35,0,las vegas cantina
+Strawberry Skittles Freeze™ - LV (20 oz),210,0,0,0,0,0,50,54,0,54,0,las vegas cantina
+Strawberry Skittles Freeze™ - LV (32 oz),250,0,0,0,0,0,65,66,0,66,0,las vegas cantina
+Stubborn Soda - Black Cherry Taragon (20 oz) - LV,240,0,0,0,0,0,75,61,0,61,0,las vegas cantina
+Stubborn Soda - Classic Root Beer (20 oz) - LV,280,0,0,0,0,0,140,73,0,70,0,las vegas cantina
+Tequila (80 proof) - Double - LV,250,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Tequila (80 proof) - Single - LV,120,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Vanilla Flavor Shot (16 oz) - LV,0,0,0,0,0,0,0,<1,0,0,0,las vegas cantina
+Vanilla Flavor Shot (32 oz) - LV,0,0,0,0,0,0,5,1,0,0,0,las vegas cantina
+Vodka (80 proof) - Double - LV,250,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Vodka (80 proof) - Single - LV,120,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Whiskey (80 proof) - Double - LV,250,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Whiskey (80 proof) - Single - LV,120,0,0,0,0,0,0,0,0,0,0,las vegas cantina
+Aquafina® Sparkling Berry Breeze (16 fl oz),0,0,0,0,0,0,85,0,0,0,0,16 oz fountain drinks
+Brisk® Mango Iced Tea (16 fl oz),100,0,0,0,0,0,50,26,0,26,0,16 oz fountain drinks
+Brisk® Unsweetened No Lemon Iced Tea (16 fl oz),0,0,0,0,0,0,60,0,0,0,0,16 oz fountain drinks
+Diet Dr Pepper® (16 fl oz),0,0,0,0,0,0,95,0,0,0,0,16 oz fountain drinks
+Diet Mtn Dew® (16 fl oz),5,0,0,0,0,0,75,1,0,1,0,16 oz fountain drinks
+Diet Pepsi® (16 fl oz),0,0,0,0,0,0,75,0,0,0,0,16 oz fountain drinks
+Dr Pepper® (16 fl oz),190,0,0,0,0,0,60,52,0,51,0,16 oz fountain drinks
+G2 - Fruit Punch (16 fl oz),30,0,0,0,0,0,140,7,0,6,0,16 oz fountain drinks
+Mist Twst® (16 fl oz),200,0,0,0,0,0,45,54,0,54,0,16 oz fountain drinks
+Mtn Dew® (16 fl oz),220,0,0,0,0,0,70,59,0,58,0,16 oz fountain drinks
+Mtn Dew® Baja Blast™ (16 fl oz),220,0,0,0,0,0,65,59,0,59,0,16 oz fountain drinks
+Mtn Dew® Baja Blast Zero Sugar (16 fl oz),5,0,0,0,0,0,70,0,0,0,0,16 oz fountain drinks
+Mtn Dew® Kickstart™ Orange Citrus (16 fl oz),70,0,0,0,0,0,75,18,0,18,0,16 oz fountain drinks
+Mug® Root Beer (16 fl oz),190,0,0,0,0,0,60,52,0,52,0,16 oz fountain drinks
+Pepsi® (16 fl oz),200,0,0,0,0,0,45,55,0,55,0,16 oz fountain drinks
+Pepsi® Wild Cherry (16 fl oz),210,0,0,0,0,0,40,56,0,56,0,16 oz fountain drinks
+Pepsi® Zero Sugar (16 fl oz),0,0,0,0,0,0,85,0,0,0,0,16 oz fountain drinks
+Tropicana® Pink Lemonade (16 fl oz),210,0,0,0,0,0,210,53,0,53,0,16 oz fountain drinks
+Aquafina® Sparkling Berry Breeze (20 fl oz),0,0,0,0,0,0,105,0,0,0,0,20 oz fountain drinks
+Brisk® Mango Iced Tea (20 fl oz),120,0,0,0,0,0,60,32,0,32,0,20 oz fountain drinks
+Brisk® Unsweetened No Lemon Iced Tea (20 fl oz),0,0,0,0,0,0,75,0,0,0,0,20 oz fountain drinks
+Diet Dr Pepper® (20 fl oz),0,0,0,0,0,0,120,0,0,0,0,20 oz fountain drinks
+Diet Mtn Dew® (20 fl oz),10,0,0,0,0,0,90,1,0,1,0,20 oz fountain drinks
+Diet Pepsi® (20 fl oz),0,0,0,0,0,0,95,0,0,0,0,20 oz fountain drinks
+Dr Pepper® (20 fl oz),240,0,0,0,0,0,75,65,0,64,0,20 oz fountain drinks
+G2 - Fruit Punch (20 fl oz),35,0,0,0,0,0,180,9,0,8,0,20 oz fountain drinks
+Mist Twst® (20 fl oz),260,0,0,0,0,0,55,68,0,68,0,20 oz fountain drinks
+Mtn Dew® (20 fl oz),270,0,0,0,0,0,85,73,0,73,0,20 oz fountain drinks
+Mtn Dew® Baja Blast™ (20 fl oz),280,0,0,0,0,0,80,74,0,73,0,20 oz fountain drinks
+Mtn Dew® Baja Blast Zero Sugar (20 fl oz),10,0,0,0,0,0,85,0,0,0,0,20 oz fountain drinks
+Mtn Dew® Kickstart™ Orange Citrus (20 fl oz),90,0,0,0,0,0,90,23,0,22,0,20 oz fountain drinks
+Mug® Root Beer (20 fl oz),240,0,0,0,0,0,75,65,0,65,0,20 oz fountain drinks
+Pepsi® (20 fl oz),250,0,0,0,0,0,55,69,0,69,0,20 oz fountain drinks
+Pepsi® Wild Cherry (20 fl oz),260,0,0,0,0,0,50,70,0,70,0,20 oz fountain drinks
+Pepsi® Zero Sugar (20 fl oz),0,0,0,0,0,0,105,0,0,0,0,20 oz fountain drinks
+Tropicana® Pink Lemonade (20 fl oz),260,0,0,0,0,0,260,67,0,67,0,20 oz fountain drinks
+Aquafina® Sparkling Berry Breeze (30 fl oz),0,0,0,0,0,0,160,0,0,0,0,30 oz fountain drinks
+Brisk® Mango Iced Tea (30 fl oz),180,0,0,0,0,0,90,48,0,48,0,30 oz fountain drinks
+Brisk® Unsweetened No Lemon Iced Tea (30 fl oz),0,0,0,0,0,0,115,0,0,0,0,30 oz fountain drinks
+Diet Dr Pepper® (30 fl oz),0,0,0,0,0,0,180,1,0,0,0,30 oz fountain drinks
+Diet Mtn Dew® (30 fl oz),10,0,0,0,0,0,140,1,0,1,0,30 oz fountain drinks
+Diet Pepsi® (30 fl oz),0,0,0,0,0,0,140,0,0,0,0,30 oz fountain drinks
+Dr Pepper® (30 fl oz),360,0,0,0,0,0,110,98,0,96,0,30 oz fountain drinks
+G2 - Fruit Punch (30 fl oz),50,0,0,0,0,0,270,13,0,12,0,30 oz fountain drinks
+Mist Twst® (30 fl oz),380,0,0,0,0,0,80,101,0,101,0,30 oz fountain drinks
+Mtn Dew® (30 fl oz),410,0,0,0,0,0,125,110,0,109,0,30 oz fountain drinks
+Mtn Dew® Baja Blast™ (30 fl oz),420,0,0,0,0,0,120,110,0,110,0,30 oz fountain drinks
+Mtn Dew® Baja Blast Zero Sugar (30 fl oz),15,0,0,0,0,0,125,0,0,0,0,30 oz fountain drinks
+Mtn Dew® Kickstart™ Orange Citrus (30 fl oz),130,0,0,0,0,0,140,34,0,33,0,30 oz fountain drinks
+Mug® Root Beer (30 fl oz),360,0,0,0,0,0,110,98,0,98,0,30 oz fountain drinks
+Pepsi® (30 fl oz),380,0,0,0,0,0,80,104,0,103,0,30 oz fountain drinks
+Pepsi® Wild Cherry (30 fl oz),390,0,0,0,0,0,80,105,0,105,0,30 oz fountain drinks
+Pepsi® Zero Sugar (30 fl oz),0,0,0,0,0,0,160,<1,0,0,0,30 oz fountain drinks
+Tropicana® Pink Lemonade (30 fl oz),390,0,0,0,0,0,390,100,0,100,0,30 oz fountain drinks
+Border Sauce - Diablo,0,0,0,0,0,0,30,0,0,0,0,hot sauce packets
+Border Sauce - Fire,0,0,0,0,0,0,65,<1,0,0,0,hot sauce packets
+Border Sauce - Hot,0,0,0,0,0,0,50,0,0,0,0,hot sauce packets
+Border Sauce - Mild,0,0,0,0,0,0,35,0,0,0,0,hot sauce packets
+Breakfast Salsa,0,0,0,0,0,0,50,<1,0,0,0,hot sauce packets
